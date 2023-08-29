@@ -10,4 +10,4 @@ The LCD display will show the current input .
 
 Press the "equals" button show sorting number on lcd.
 
-Press the "clear" button to clear the lcd and show sorting number on 7SEG.
+Press the "clear" button to clear the lcd and show sorting number on 7SEG for a seconed.
